@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://github.com/pimveldhof/Among-us-script/blob/main/dollhouse", true))()
